@@ -1,0 +1,9 @@
+{
+  "name": "package-json-script-descriptions",
+  "version": "0.0.1",
+  "description": "Adds descriptions to package.json scripts",
+  "main": "index.js",
+  "repository": "git@github.com:manatarms/package-json-script-descriptions.git",
+  "author": "Sachin Fernandes <sachin@cloudflare.com>",
+  "license": "MIT"
+}
